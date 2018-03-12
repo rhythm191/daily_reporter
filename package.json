@@ -1,0 +1,26 @@
+{
+  "name": "daily_reporter",
+  "version": "0.1.0",
+  "description": "simple daily report tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhythm191/daily_reporter.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "rhythm191",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rhythm191/daily_reporter/issues"
+  },
+  "homepage": "https://github.com/rhythm191/daily_reporter#readme",
+  "devDependencies": {
+    "electron": "^1.8.3",
+    "electron-json-storage": "^4.0.2"
+  }
+}
